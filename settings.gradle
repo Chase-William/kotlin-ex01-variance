@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "test"
+rootProject.name = "omg"
 include ':app'
-include ':kotlinexercise'
+include ':KotlinExercise'

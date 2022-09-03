@@ -1,4 +1,4 @@
-package com.roth.chase.test
+package com.ritstudentchase.omg
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
